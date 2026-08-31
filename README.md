@@ -19,7 +19,7 @@ This repository provides highly accurate templates modeled after official dimens
 
 | 🟢 NES Label Template | 🔵 Sega Genesis / Mega Drive Template |
 | :---: | :---: |
-| ![NES-template](Inlscape-cartridge-label-templates/Label NES.svg) | ![SMD-template](Inlscape-cartridge-label-templates/Label Sega Genesis.svg) |
+| ![NES-template](Inlscape-cartridge-label-templates/label-nes.svg) | ![SMD-template](Inlscape-cartridge-label-templates/label-sega-genesis.svg) |
 
 ---
 
